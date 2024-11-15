@@ -5,17 +5,17 @@ I'm a passionate Computer Science student.
 
 **Technologies & Tools I Use:**
 
-Languages: Python, JavaScript
+• Languages: Python, JavaScript
 
-Web Development: HTML, CSS, JavaScript
+• Web Development: HTML, CSS, JavaScript
 
-Databases: MySQL
+• Databases: MySQL
 
-Tools: Git, GitHub, Excel, Google Doc
+• Tools: Git, GitHub, Excel, Google Doc
 
 You can check out my work in the repositories!
 
-**📧 Connect with Me:**
+**✉️ Connect with Me:**
 
 LinkedIn: www.linkedin.com/in/shweta-todgire-1452372b4
 
