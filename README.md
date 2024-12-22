@@ -5,13 +5,11 @@ I'm a passionate Computer Science student.
 
 **Technologies & Tools I Use:**
 
-• Languages: Python, JavaScript
-
-• Web Development: HTML, CSS, JavaScript
-
-• Databases: MySQL
-
-• Tools: Git, GitHub, Excel, Google Doc
+- Programming Languages: Python, PHP, HTML, CSS, JavaScript
+  
+- Technologies: Web Development, Application Development, SQLite, MySQL, MongoDB
+  
+- Frameworks and Tools: Tkinter, GitHub.
 
 You can check out my work in the repositories!
 
