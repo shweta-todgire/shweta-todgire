@@ -17,4 +17,4 @@ You can check out my work in the repositories!
 
 LinkedIn: www.linkedin.com/in/shweta-todgire-1452372b4
 
-Email: shwettodgire@gmail.com
+Email: todgireshwetacs232409@gmail.com
